@@ -1,0 +1,17 @@
+html {
+    background-color: #4D5E72;
+}
+
+.main {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.main h1 {
+    font-family: 'Mate SC', serif;
+    font-size: 70px;
+    color: #F2CC8C;
+}
